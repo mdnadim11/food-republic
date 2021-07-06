@@ -31,15 +31,20 @@ height: 500px;
 background-image: url(images/shapes/Frame\ 59.jpg);
 background-repeat: no-repeat;
 }
-.recev{
-    align-items: center;
-    display: inline-block;
-    display: flex;
-    margin: 10px 20px;
-    padding: 20px 0;
-}
-recev img{
-width: 30%;
-height: 80%;
-}
 
+
+.up{
+    box-shadow: 10px 10px 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.oppo{
+    idth: 84%;
+    margin: 0 30px;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+box-shadow: 10px 10px 20px;
+padding: 0 5%;
+}
